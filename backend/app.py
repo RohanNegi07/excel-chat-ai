@@ -4,7 +4,7 @@ import tempfile
 import os
 import openai
 
-openai.api_key = "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"  # Replace with your key
+openai.api_key = "api key"  # Replace with your key
 
 st.set_page_config(page_title="Excel AI Query", layout="wide")
 st.title("📊 AI Excel Data Query Platform")
