@@ -134,5 +134,5 @@ Add file caching for quicker access.
 Support for larger datasets with chunked processing.
 
 Add chart generation based on queries.
-
+ 
 Integrate multi-language support.
